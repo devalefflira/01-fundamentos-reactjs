@@ -24,9 +24,18 @@ export function Post() {
         <p>
           <a href="https://www.linkedin.com/in/aleff-lira-1157311a0/" target="_blank">Vamos nos conectar lá no LinkedIn?</a>
         </p>
-
         <p>😉👍</p>
       </div>
+
+      <form className={styles.commentForm}>
+        <strong>Deixe o seu feedback</strong>
+        <textarea 
+          placeholder="Deixe um comentário"
+        />
+        <footer>
+          <button type="submit">Publicar</button>
+        </footer>
+      </form>
 
     </article>
   );
