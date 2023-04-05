@@ -17,11 +17,15 @@ export function Post() {
       </header>
       
       <div className={styles.content}>
-        <p>Fala, Gabriel. 👍 Beleza?</p> 
-        <p>Acabei de subir a última alteração do meu primeiro projeto em ReactJs. 🚀</p>
-        <p>👨‍💻 Desenvolvi ele durante a trilha Ignite ReacJs, da Rocketseat.</p>
+        <p>Fala, Gabriel. Beleza?👍</p> 
+        <p>Acabei de subir a última alteração do meu primeiro projeto em ReactJs.🚀</p>
+        <p>Desenvolvi o projeto durante a trilha Ignite Reactjs, da Rocketseat.</p>
         <p>Depois me dá um feedback?</p>
-        <p>😄👍</p>
+        <p>
+          <a href="https://www.linkedin.com/in/aleff-lira-1157311a0/" target="_blank">Vamos nos conectar lá no LinkedIn?</a>
+        </p>
+
+        <p>😉👍</p>
       </div>
 
     </article>
