@@ -31,7 +31,7 @@ const posts = [
     },
     content: [
       {type: 'paragraph', content: 'Fala, Áleff. Beleza?'},
-      {type: 'paragraph', content: 'Acabei de ver sua última alteração do projeto em ReactJs.'},
+      {type: 'paragraph', content: 'Acabei de ver sua última alteração do projeto em React.'},
       {type: 'paragraph', content: 'Faz só os ajustes que eu te encaminhei por e-mail.'},
       {type: 'paragraph', content: '2 dias é um prazo razoável para a entrega?'},
       {type: 'link', content: 'https://www.google.com/'},
